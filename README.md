@@ -3,4 +3,4 @@ Just another repository
 
 Hi Friends,
 I am Eustache I work as Sr Network Engineer at Mouser.
-Coding is networking has became every important and I am now passionate to lear how to code.
+Coding in networking has became every important and I am now passionate to lear how to code.
